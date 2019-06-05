@@ -1,2 +1,3 @@
 # hello-world
-Practice Repository
+
+This is a practice repository to learn how Git and Github work
